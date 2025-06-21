@@ -9,11 +9,19 @@ Open Terminal / CMD / PowerShell
 
 Navigate to the project folder, for example:
 
+
 bash
+
 cd path/to/Rock-scissor-main
+
 Run the main Python file:
+
 bash
+
 python main.py
+
 If that doesn't start the game, try:
+
 bash
+
 python rockpaperscissor.py
